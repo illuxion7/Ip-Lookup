@@ -4,6 +4,8 @@
 
 # github - https://github.com/illuxion7
 
+# discord - https://discord.gg/FgGQYrXncQ
+
 
 
 import json
